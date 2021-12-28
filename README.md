@@ -2,6 +2,11 @@
 Deploying mongodb with docker-compose and applying basic operation  with python
 
 To activate mongo write below command in your terminal 
+
+```cd <to your directory>```
+
+then
+
   ```docker-compose up -d```
 
 Before running the python files, make sure you already install ```pymongo``` package in your env
